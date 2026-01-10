@@ -8,6 +8,8 @@ This is a plugin to scan barcodes by using [Honeywell](https://www.honeywellaidc
 
 This repository was created from [Pub](https://pub.dev/packages/honeywell_scanner), but original repository wasn't found. Credits to luis901101@gmail.com.
 
+UPDATE: archiving this repos, since original repo was published in https://github.com/luis901101/honeywell_scanner
+
 ## Description
 
 Supported devices
